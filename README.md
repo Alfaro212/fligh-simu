@@ -8,14 +8,7 @@ La aplicación tiene un **selector de idioma** que permite usarla tanto en **Esp
 ## 🌐 Versión en línea
 
 Puedes probar la aplicación aquí:  
-👉 [https://flight-sim.streamlit.app](https://flight-sim.streamlit.app)
-
-## 🖼️ Vista previa
-
-![preview](https://user-images.githubusercontent.com/your-username/your-preview.png)  
-> *(Agrega una captura de pantalla aquí si lo deseas)*
-
----
+👉 [https://flight-sim.streamlit.app](https://flight-sim.streamlit.ap
 
 ## 🧰 Tecnologías utilizadas
 
@@ -80,14 +73,4 @@ La app detecta el idioma seleccionado por el usuario (Español o Inglés) y actu
 idioma = st.selectbox("🌐 Idioma / Language", ["Español", "English"])
 ```
 
----
 
-## 📄 Licencia
-
-Este proyecto es de código abierto bajo la licencia MIT.
-
----
-
-## ✍️ Autor
-
-**Tu Nombre** – [@tu_usuario](https://github.com/tu_usuario)
